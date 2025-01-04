@@ -1,0 +1,5 @@
+Visit the new museum.
+Print the pictures.
+Buy grocery.
+Get papper.
+Return the books to the library.
